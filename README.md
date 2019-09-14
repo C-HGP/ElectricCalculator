@@ -5,4 +5,4 @@ It will give you the total resistance and the tolerance interval.
 It will also recommend a fitting resistor from the **E24 Series** based on what the result is. 
 
 # TODO
--[ ] Implement logical gate calculations
+- [ ] Implement logical gate calculations
