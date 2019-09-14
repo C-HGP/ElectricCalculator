@@ -7,7 +7,6 @@
 #include <string>
 #include <cmath>
 #include <iomanip>
-//#define DEBUGG
 
 
 
@@ -431,20 +430,9 @@ int resisColor(std::string resist, int tolerance){
     
 
     //debug
-    std::cout << "firstDig " << firstDig << std::endl;
+    /**std::cout << "firstDig " << firstDig << std::endl;
     std::cout << "secDig " << secDig << std::endl;
-    std::cout << "multiDig" << multiDig << std::endl;
-
-
-
-
-    //If statmentSSS for first digit
-    
-    
-    
-    
-
-
+    std::cout << "multiDig" << multiDig << std::endl;**/
 
     return 0;
 }
